@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ's hundred commandments, or, The precepts of our Lord &amp; Saviour Jesus Christ collected out of the Scriptures (verbatim) for general good to all people.</title>
+            <title>Bible. N.T. Gospels. English. Selections. 1682.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33250</idno>
+            <idno type="STC">Wing C4436</idno>
+            <idno type="STC">ESTC R27840</idno>
+            <idno type="EEBO-CITATION">10171057</idno>
+            <idno type="OCLC">ocm 10171057</idno>
+            <idno type="VID">44684</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44684)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1379:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ's hundred commandments, or, The precepts of our Lord &amp; Saviour Jesus Christ collected out of the Scriptures (verbatim) for general good to all people.</title>
+                  <title>Bible. N.T. Gospels. English. Selections. 1682.</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Clark,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44684:1"/>
+            <pb facs="tcp:44684:1" rendition="simple:additions"/>
+            <p>CHRIST'S Hundred Commandments: OR, THE PRECEPTS OF OUR LORD &amp; SAVIOUR <hi>Ieſus Chriſt.</hi> Collected out of the SCRIPTURES (VERBATIM) For General Good to all People.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Clark</hi> in
+<hi>George-Yard</hi> in <hi>Lombardſtreet,</hi> Book<g ref="char:EOLhyphen"/>ſeller, MDCLXXXII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:44684:2"/>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THE Conſideration of the many <hi>Books</hi> of
+<hi>Controverſies</hi> daily <hi>increaſing,</hi> and the ill
+<hi>Effect</hi> it has upon men; filling their <hi>Heads</hi> with needleſs
+<hi>Diſputes;</hi> and, which is worſe, with <hi>Heats</hi> and
+<hi>Animoſities</hi> one againſt another, to the eating out of that
+<hi>Love</hi> and <hi>Charity</hi> one to ano<g ref="char:EOLhyphen"/>ther, which <hi>Chriſt left amongſt</hi> his as the only Cha<g ref="char:EOLhyphen"/>racter of his Diſciples, has cauſed ſome <hi>Serious Perſons</hi> in <hi>Germany</hi> to <hi>decline</hi> very much the read<g ref="char:EOLhyphen"/>ing <hi>ſuch Treatiſes,</hi> and only to <hi>converſe</hi> with the <hi>Divine Scriptures,</hi> and ſuch Books as direct to the
+<hi>inward Life, Spirit and Power by which they were writ, can alone be underſtood, and put in practice.</hi>
+            </p>
+            <p>And amongſt theſe, one, to bring people back to the
+<hi>ſimplicity of Chriſt's Commands,</hi> which are more plain and eaſie to be <hi>underſtood,</hi> without the help of any man that makes a Trade and Merchandize of them, did <hi>collect</hi> out of the <hi>New Teſtament One hundred</hi> paſſages, which he ſtiled the <hi>hundred Com<g ref="char:EOLhyphen"/>mandments of our Lord and Saviour Ieſus Chriſt,</hi> and committed the ſame to Print in the <hi>High Dutch Tongue,</hi> which, being brought into <hi>England,</hi> and cauſed to be Tranſlated into <hi>Engliſh</hi> by my ſingu<g ref="char:EOLhyphen"/>lar good friend <hi>Franciſcus Mercunius Van Helmont,</hi> and ſhewed unto me, I have for the <hi>General Good,</hi> thought fit thus to publiſh, not doubting but theſe will be acceptable and profitable to all ſerious Perſons, be<g ref="char:EOLhyphen"/>ing free from all mixture of Errour or Falſhood: uſe them well, and proſper;</p>
+            <closer>
+               <signed>
+                  <hi>Thine in True Love,</hi> B. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:44684:2"/>
+            <head>Chriſt's Hundred Commandments, &amp;c.</head>
+            <p n="1">
+               <label>I. <hi>Commandment.</hi>
+               </label> JEſus ſaid unto him, it is written again, <hi>
+                  <hi>Thou ſhalt not tempt the Lord thy God,</hi> Mat.</hi> 4.7. And Jeſus Anſwering, ſaid unto him, it is ſaid,
+<hi>
+                  <hi>Thou ſhalt not tempt the Lord thy God,</hi> Luke</hi> 4.12.</p>
+            <p n="2">II. Then ſaith Jeſus unto him, get thee hence Satan, for it is written, <hi>
+                  <hi>Thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve,</hi> Matth.</hi> 4.10. And Jeſus anſwered and ſaid unto him, get thee behind me Satan: for it is written, <hi>
+                  <hi>Thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve,</hi> Luke</hi>
+4.8.</p>
+            <p n="3">III. And ſaid unto them that ſold Doves, Take theſe
+<hi>things</hi> hence; make not my <hi>Fathers</hi> Houſe a Houſe of Merchandize, <hi>John</hi> 2.16.</p>
+            <p n="4">IV. Marvel not that I ſaid unto thee, <hi>
+                  <hi>Thou muſt be born again,</hi> John</hi> 3.7.</p>
+            <p n="5">V. But the hour cometh, and now is, when the true Worſhippers <hi>ſhall worſhip</hi> the Father in <hi>Spi<g ref="char:EOLhyphen"/>rit</hi> and in
+<hi>Truth:</hi> for the Father ſeeketh ſuch to worſhip him, <hi>John</hi>
+4.23.</p>
+            <p n="6">VI. And ſaying the time is fulfilled, and the Kingdom of God is at hand: <hi>
+                  <hi>Repent ye, and believe the Goſpel,</hi> Mark</hi>
+1.15.</p>
+            <p n="7">VII. Afterwards Jeſus findeth him in the Tem<g ref="char:EOLhyphen"/>ple, and ſaid unto him, Behold, thou art made whole: <hi>
+                  <hi>Sin no more, leſt a worſe thing come unto thee,</hi> John</hi> 5.14.</p>
+            <p n="8">VIII. <hi>Search the Scriptures,</hi> for in them ye think ye have Eternal Life, and they are they which teſtifie of me, <hi>John</hi>
+5.39.</p>
+            <p n="9">IX. Let your <hi>Light</hi> ſo ſhine before men, that they may ſee your good works, and glorifie your <hi>Father</hi> which is in Heaven, <hi>Matth.</hi> 5.16.</p>
+            <pb n="2" facs="tcp:44684:3"/>
+            <p n="10">X. But I ſay unto you, that whoſoever is angry with his Brother without a cauſe, ſhall be in dan<g ref="char:EOLhyphen"/>ger of the <hi>Iudgment:</hi> and whoſoever ſhall lay unto his Brother <hi>Racha,</hi> ſhall be in danger of the Council: but whoſoever ſhall ſay, <hi>Thou Fool, <hi>ſhall be in danger of Hell fire,</hi> Matth.</hi> 5.22.</p>
+            <p n="11">XI. But I ſay unto you, that whoſoever <hi>look<g ref="char:EOLhyphen"/>eth on a Woman</hi> to <hi>luſt</hi> after her, hath commit<g ref="char:EOLhyphen"/>ted <hi>Adultery</hi> already with her in his <hi>Heart.</hi> And if thy right eye offend thee, pluck it out and caſt it from thee: for it is profitable for thee that one of thy members ſhould periſh, and not thy whole bo<g ref="char:EOLhyphen"/>dy ſhould be caſt into
+<hi>Hell.</hi> And if thy right hand offend thee, cut it off, and caſt it from thee: for it is profitable for thee that one of thy members ſhould periſh, and not thy whole body ſhould be caſt in<g ref="char:EOLhyphen"/>to <hi>
+                  <hi>Hell,</hi> Matth.</hi> 5.28, <hi>&amp;c.</hi>
+            </p>
+            <p n="12">XII. But I ſay unto you, that whoſoever ſhall put away his <hi>Wife</hi> ſaving for the cauſe of <hi>For<g ref="char:EOLhyphen"/>nication,</hi> cauſeth her to commit <hi>Adultery:</hi> and whoſoever ſhall
+<hi>Marry</hi> her that is divorced, com<g ref="char:EOLhyphen"/>mitteth <hi>
+                  <hi>Adultery,</hi> Matth.</hi> 5.32.</p>
+            <p n="13">XIII. But I ſay unto you, <hi>Swear not at all;</hi> neither by Heaven, for it is God's Throne: nor by the Earth, for it is his Footſtool: neither by <hi>Jeruſalem,</hi> for it is the City of the great King. Neither ſhalt thou Swear by thy Head, becauſe thou canſt not make one hair black or white. But let your communication be, <hi>Yea, Yea,</hi> and
+<hi>Nay, Nay:</hi> for whatſoever is more than theſe cometh of
+<hi>
+                  <hi>Evil,</hi> Matth.</hi> 5.34, <hi>&amp;c.</hi>
+            </p>
+            <p n="14">XIV. But I ſay unto you, That ye reſiſt not evil: but whoſoever ſhall ſmite thee on thy right Cheek, turn to him the other alſo. And if any man Sue thee at the Law, and take away thy Cloak, let him have thy Coat alſo. And whoſo<g ref="char:EOLhyphen"/>ever ſhall compel thee to go a mile, go with him twain, <hi>Matth.</hi> 5.39. <hi>Luke</hi> 6.27, 29.</p>
+            <pb n="3" facs="tcp:44684:3"/>
+            <p n="15">XV. Give to him that asketh thee, and from him that would
+<hi>borrow</hi> of thee, turn not thou away, <hi>Matth.</hi> 5.42.
+<hi>Luke</hi> 6.30.</p>
+            <p n="16">XVI. But I ſay unto you, <hi>
+                  <hi>Love your Ene<g ref="char:EOLhyphen"/>mies, bleſs them that curſe you, do good to them that hate you, and pray for them which deſpitefully uſe you, and perſecute you,</hi> Mat.</hi> 5.44.
+<hi>&amp;c. Luke</hi> 6.27, 35.</p>
+            <p n="17">XVII. Be ye therefore perfect, even as your Father which is in Heaven is perfect, <hi>Matth.</hi> 5.48. <hi>Luke</hi> 6.35.</p>
+            <p n="18">XVIII. Take heed that you do not your Alms before men, to be ſeen of them: otherwiſe ye have no reward of your Father which is in Heaven. Therefore when thou doſt thine alms, do not ſound a Trumpet before thee, as the <hi>Hypocrites</hi> do in the <hi>Synagogues,</hi> and in the
+<hi>Streets,</hi> that they may have glory of men. Verily, I ſay unto you, they have their Reward. But when thou doſt <hi>Alms,</hi> let not thy left hand <hi>know</hi> what thy right hand does, <hi>Mat.</hi> 6.1.
+<hi>&amp;c.</hi>
+            </p>
+            <p n="19">XIX. And when thou prayeſt, thou ſhalt not be as the
+<hi>Hypocrites</hi> are: for they love to pray ſtanding in the
+<hi>Synagogues,</hi> and in the corners of the Streets, that they may be ſeen of men. Verily, I ſay unto you, they have their Reward. But thou when thou prayeſt, enter into thy Clo<g ref="char:EOLhyphen"/>ſet, and when thou haſt ſhut the door,
+<hi>
+                  <hi>Pray to thy Father which is in ſecret, and thy Father which ſeeth in ſecret, ſhall reward thee openly,</hi> Mat.</hi> 6, 5, 6.</p>
+            <p n="20">XX. But when ye pray, <hi>uſe not vain repetiti<g ref="char:EOLhyphen"/>ons,</hi> as the Heathen do: for they think they ſhall be heard for their much ſpeaking. Be not ye there<g ref="char:EOLhyphen"/>fore like unto them: for your Father knoweth what things ye have need of, before ye ask him, <hi>Mat.</hi> 6.7, 8.</p>
+            <p n="21">XXI. After this manner therefore pray ye: <hi>Our
+<pb n="4" facs="tcp:44684:4"/>Father which art in Heaven, Hallowed be thy Name. Thy Kingdom come. Thy will be done in Earth as it is in Heaven. Give us this day our daily bread. And forgive us our Debts, as we forgive our Debtors. And lead us not into temptation, but deliver us from evil: For thine is the Kingdom, the power, and the glory, for ever.</hi> Amen. <hi>Mat.</hi> 6.9, <hi>&amp;c.</hi>
+            </p>
+            <p n="22">XXII. Moreover when ye <hi>faſt,</hi> be not as the
+<hi>Hypocrites,</hi> of a ſad Countenance: for they diſ<g ref="char:EOLhyphen"/>figure their faces that they may appear unto men to <hi>Faſt.</hi> Verily, I ſay unto you, they have their reward. But thou, when thou <hi>faſteſt,</hi> anoint thy Head, and waſh thy Face, <hi>Mat.</hi> 6.16, <hi>&amp;c.</hi>
+            </p>
+            <p n="23">XXIII. Lay not up for your ſelves <hi>Treaſures</hi> upon Earth, where moth and ruſt doth corrupt, and where Thieves break thorow and ſteal. But <hi>
+                  <hi>lay up for your ſelves Treaſures in Heaven, where neither Moth nor Ruſt doth corrupt, and where Thieves do not break through and Steal,</hi> Mat.</hi> 6.19, 20.</p>
+            <p n="24">XXIV. No man can ſerve two Maſters: for ei<g ref="char:EOLhyphen"/>ther he will
+<hi>ate</hi> the one, and <hi>love</hi> the other; or elſe he will
+<hi>hold</hi> to the one, and <hi>deſpiſe</hi> the other Ye cannot ſerve
+<hi>God</hi> and <hi>Mammon.</hi> There<g ref="char:EOLhyphen"/>fore I ſay unto you, <hi>Take no thought for your life,</hi> what ye ſhall eat, or what ye ſhall drink; nor yet for your body, what ye ſhall put on: is not the life more than meat, and the body than ray<g ref="char:EOLunhyphen"/>ment? <hi>Mat.</hi> 6.24, <hi>&amp;c.</hi>
+            </p>
+            <p n="25">XXV. But <hi>ſeek</hi> ye firſt the <hi>Kingdom of God,</hi> and his Righteouſneſs, and all theſe things ſhall be
+<hi>added</hi> unto you, <hi>Mat.</hi> 6.33.</p>
+            <p n="26">XXVI. Take therefore no thought for the mor<g ref="char:EOLhyphen"/>row: for the morrow will take thought for the things of it ſelf: ſufficient unto the day is the evil thereof, <hi>Mat.</hi> 6.34.</p>
+            <pb n="5" facs="tcp:44684:4"/>
+            <p n="27">XXVII. Be ye therefore merciful as your Fa<g ref="char:EOLhyphen"/>ther alſo is merciful, <hi>Luke</hi> 6.36.</p>
+            <p n="28">XXVIII. Judge not, that ye be not Judged, <hi>Mat.</hi>
+7.1. <hi>Luke.</hi> 6.37.</p>
+            <p n="29">XXIX. For with what Judgment ye Judge, ye ſhrll be judged: and with what meaſure ye mete, it ſhall be meaſured to you again,
+<hi>Mat.</hi> 7.2. <hi>Luke.</hi> 6.38.</p>
+            <p n="30">XXX. And why beholdeſt thou the Mote that is in thy Brothers eye, but conſidereſt not the Beam that is in thine own eye? Or how wilt thou ſay to they Brother, let me pull out the mote out of thine eye? and behold, a beam is in thine own eye? Thou Hypocrite; firſt caſt out the beam out of thine own eye; and then ſhalt thou ſee clearly to caſt the mote out of thy Brothers eye, <hi>Mat.</hi> 7.3, &amp;c.</p>
+            <p n="31">XXXI Give not that which is Holy unto Dogs, nither caſt ye your Pearls before Swine, leſt they trample them under their feet, and turn again and rent you, <hi>Mat.</hi> 7.6.</p>
+            <p n="32">XXXII. Ask, and it ſhall be given you: ſeek, and ye ſhall find: knock, and it ſhall beopened unto you, <hi>Mat.</hi> 7.7.</p>
+            <p n="33">XXXIII. Therefore all things whatſoever ye would that men ſhould do to you, do ye even ſo to them: for this is the Law and the Prophets, <hi>Mat.</hi> 7.12. <hi>Luke.</hi> 6.31.</p>
+            <p n="34">XXXIV. Enter ye in at the ſtrait Gate; for wide is the Gate, and broad is the way that lead<g ref="char:EOLhyphen"/>eth to deſtruction, and many there be that go in thereat: Becauſe ſtrait is the Gate, and narrow is the way which leadeth unto Life, and few there be that find it, <hi>Mat.</hi> 7.13, 14.</p>
+            <p n="35">XXXV. Beware of falſe Prophets, which come to you in Sheeps Cloathings, but inward<g ref="char:EOLhyphen"/>ly, they are Ravening Wolves. Ye ſhall know them by their Fruits: Do men gather Grapes <pb n="6" facs="tcp:44684:5"/>of
+<hi>Thorns,</hi> or <hi>Figs</hi> of <hi>
+                  <hi>Thiſtles?</hi> Mat.</hi> 7.15, &amp;c. <hi>Luke</hi> 6.43, &amp;c.</p>
+            <p n="36">XXXVI. And why call ye me <hi>Lord, Lord,</hi> and
+<hi>do</hi> not the things which I ſay? <hi>Luke</hi> 6.46. <hi>Mat.</hi>
+7.21.</p>
+            <p n="37">XXXVII. <hi>Come</hi> unto <hi>Me</hi> all ye that
+<hi>labour</hi> and are heavy laden, and <hi>I will give you reſt.</hi> Take my <hi>Yoke</hi> upon you, and <hi>learn</hi> of me, for I am <hi>meek</hi> and
+<hi>lowly</hi> in Heart: and ye ſhall find <hi>Reſt</hi> unto your
+<hi>Souls.</hi> For my <hi>Yoke is eaſie,</hi> and my <hi>
+                  <hi>burden is light,</hi> Mat.</hi> 11.28, &amp;c.</p>
+            <p n="38">XXXVIII. Let both grow together until the
+<hi>Harveſt;</hi> and in the time of <hi>Harveſt</hi> I will ſay unto the
+<hi>Reapers,</hi> Gather ye together firſt the <hi>Tears,</hi> and bind them in bundles to <hi>burn</hi> them; but gather the <hi>Wheat</hi> into my
+<hi>
+                  <hi>Barn,</hi> Mat.</hi> 13.30.</p>
+            <p n="39">XXXIX. But go ye and learn what that mean<g ref="char:EOLhyphen"/>eth, I will have
+<hi>mercy</hi> and not <hi>ſacrifice:</hi> For I am not come to call the
+<hi>Righteous,</hi> but <hi>Sinners</hi> to <hi>
+                  <hi>Repentance,</hi> Mat.</hi>
+9.13.</p>
+            <p n="40">XL. Pray ye therefore the <hi>Lord</hi> of the
+<hi>Harveſt,</hi> that he will ſend for <hi>Labourers</hi> into his
+<hi>
+                  <hi>Harveſt,</hi> Mat.</hi> 9.38.</p>
+            <p n="41">XLI. Labour not for the <hi>Meat</hi> which
+<hi>periſh<g ref="char:EOLhyphen"/>eth,</hi> but for that <hi>Meat</hi> which endureth unto ever<g ref="char:EOLhyphen"/>laſting <hi>Life,</hi> which the Son of man <hi>ſhall</hi> give un<g ref="char:EOLhyphen"/>to you: for him hath God the Father <hi>Sealed.</hi> Then ſaid they unto him, What ſhall we do, that we might work the work of God? Jeſus anſwered and ſaid unto them, <hi>
+                  <hi>This is the work of God, that ye believe on him whom he hath ſent,</hi> John</hi> 6.27, &amp;c.</p>
+            <p n="42">XLII. Then Jeſus ſaid unto them, Verily, ve<g ref="char:EOLhyphen"/>rily, I ſay unto you, except ye <hi>eat</hi> the <hi>fleſh</hi> of the Son of Man, and <hi>drink</hi> his <hi>blood,</hi> ye have no <hi>Life</hi> in you,
+<hi>John</hi> 6.53.</p>
+            <p n="43">XLIII. For God commanded, ſaying, <hi>
+                  <hi>Honour thy Father and Mother: and, he that curſeth <pb n="7" facs="tcp:44684:5"/>Father and Mother let him die the Death,</hi> Mat.</hi> 15.4. <hi>Mark</hi> 7.10.</p>
+            <p n="44">XLIV. Let them alone: they be blind <hi>Leaders</hi> of the blind. And if the blind lead the blind, both <hi>ſhall fall</hi> into the
+<hi>
+                  <hi>Ditch,</hi> Mat.</hi> 15.14.</p>
+            <p n="45">XLV. Then Jeſus ſaid unto them, Take heed, and beware of the Leaven of the <hi>Phariſees,</hi> and of the <hi>
+                  <hi>Saduces,</hi> Mat.</hi> 16.6. <hi>Mark</hi> 8.15.</p>
+            <p n="46">XXVI. And when he had called the People un<g ref="char:EOLhyphen"/>to him with his Diſciples alſo, he ſaid unto them, Whoſoever will come after me, let him <hi>deny</hi> himſelf, and take up his <hi>Croſs,</hi> and follow me,
+<hi>Mark</hi> 8.34, &amp;c. <hi>Luke</hi> 6.23, &amp;c.</p>
+            <p n="47">XLVII. And Jeſus called a little <hi>Child</hi> unto him, and ſet him in the midſt of them, and ſaid, Verily, I ſay unto you, except ye be <hi>Converted,</hi> and become as little Children, ye <hi>ſhall not</hi> enter into the Kingdom of Heaven, <hi>Matth.</hi> 18.2, &amp;c.
+<hi>Mark</hi> 9.36, 37. <hi>Luke</hi> 9.47, 48.</p>
+            <p n="48">XLVIII. Wo unto the World becauſe of of<g ref="char:EOLhyphen"/>fences: for it muſt needs be that offence cometh: but wo to that man by whom the
+<hi>Offence</hi> cometh. Wherefore if thy hand or thy foot offend thee, cut them off, and caſt them from thee: it is better for thee to enter into
+<hi>Life</hi> halt and maimed, ra<g ref="char:EOLhyphen"/>ther than having two hands or two feet, to be caſt into <hi>Everlaſting Fire.</hi> And if thine <hi>Eye</hi> of<g ref="char:EOLhyphen"/>fend thee, pluck it out, and caſt it from thee: it is better for thee to enter into life with one Eye, ra<g ref="char:EOLhyphen"/>ther than having two Eyes to be caſt into
+<hi>
+                  <hi>Hell fire,</hi> Mat.</hi> 18.7, 8, 9. <hi>Mark</hi> 9.43, &amp;c.</p>
+            <p n="49">XLIX. Salt is good: but if the Salt have loſt his ſaltneſs, wherewith will ye ſeaſon it? Have <hi>Salt</hi> in your ſelves, and have <hi>Peace</hi> one with ano<g ref="char:EOLhyphen"/>ther, <hi>Mark</hi> 9.50.</p>
+            <p n="50">L. Take heed that ye deſpiſe not one of theſe lit<g ref="char:EOLhyphen"/>tle ones; for I ſay unto you, that in Heaven their <hi>Angels</hi> do alwaies behold the face of my <hi>Father</hi> which is in <hi>
+                  <hi>Heaven,</hi> Mat.</hi> 18.10.</p>
+            <pb n="8" facs="tcp:44684:6"/>
+            <p n="51">LI. Moreover, if thy Brother ſhall <hi>Treſpaſs</hi> againſt thee, go and tell him his <hi>Fault</hi> between thee and him alone: if he ſhall hear thee, thou haſt gained thy Brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three Witneſſes every word may be eſtabliſhed. And if he ſhall neglect to hear them, tell it unto the Church: but if he neglect to hear the Church, Let him be unto thee as an <hi>Heathen</hi> Man, and a
+<hi>
+                  <hi>Publican,</hi> Mat.</hi> 18.15, &amp;c</p>
+            <p n="52">LII. Then came <hi>Peter</hi> to him, and ſaid, Lord, how often ſhall my Brother ſin againſt me, and I forgive him? till ſeven times? Jeſus ſaith unto him, I ſay not unto thee, Until ſeven times: but, until <hi>
+                  <hi>Seventy times Seven,</hi> Mat.</hi> 18.21, 22.</p>
+            <p n="53">LIII. Judge not according to the appearance, but judge righteous judgment, <hi>John</hi> 7.24.</p>
+            <p n="54">LIV. He that believeth on me, as the Scrip<g ref="char:EOLhyphen"/>ture hath ſaid, out of his Belly ſhall flow Rivers of <hi>
+                  <hi>living water,</hi> John</hi> 7.38.</p>
+            <p n="55">LV. Then ſaid Jeſus to thoſe Jews which be<g ref="char:EOLhyphen"/>lieved on him, if ye continue in my word, then are ye my Diſciples indeed; And ye ſhall know the <hi>Truth,</hi> and the <hi>Truth</hi> ſhall make you
+<hi>
+                  <hi>free,</hi> John</hi> 8.31, 32.</p>
+            <p n="56">LVI. Notwithſtanding, in this rejoyce not, that the
+<hi>Spirits</hi> are ſubject unto you: but rather rejoyce that your
+<hi>Names</hi> be written in Heaven <hi>Luke</hi> 10.20.</p>
+            <p n="57">LVII. What is written in the Law? how read<g ref="char:EOLhyphen"/>eſt thou? And he anſwering, ſaid, <hi>Thou ſhalt love the Lord thy God with all thy Heart and with all thy Saul, and with all thy Strength, and with all thy Mind; and thy Neighbour as thy Self.</hi> And he ſaid unto him, <hi>
+                  <hi>Thou haſt anſwered right: this do, and thou ſhalt live,</hi> Luke</hi> 10.26, &amp;c.</p>
+            <p n="58">LVIII. Which now of theſe three, thinkeſt thou,
+<pb n="9" facs="tcp:44684:6"/>was <hi>Neighbour</hi> unto him that fell among the
+<hi>Thieves?</hi> And he ſaid, He that ſhewed mercy on him. Then ſaid Jeſus unto him, Go, and do thou likewiſe, <hi>Luke</hi> 10.36, 37.</p>
+            <p n="59">LIX. But rather give <hi>Alms</hi> of ſuch things as you have: and behold, all things are clean unto you, <hi>Luke</hi> 11.41.</p>
+            <p n="60">LX. But wo unto you <hi>Phariſees:</hi> for ye
+<hi>Tithe</hi> Mint and Rue and all manner of Herbs, and paſs over judgment and the love of God: theſe ought ye to have <hi>done,</hi> and not to leave the other <hi>
+                  <hi>undone,</hi> Luke</hi> 11.42.</p>
+            <p n="61">LXI. In the mean time, when there were gather<g ref="char:EOLhyphen"/>ed together an innumerable multitude of People, inſomuch that they trod one upon another, he be<g ref="char:EOLhyphen"/>gan to ſay unto his Diſciples firſt of all, Beware ye of the Leaven of the <hi>Phariſees,</hi> which is <hi>Hypo<g ref="char:EOLhyphen"/>criſie.</hi> For there is nothing covered that ſhall not be <hi>revealed;</hi> Neither hid, that ſhall not be known, <hi>Luke</hi> 12.1, 2.</p>
+            <p n="62">LXII. And I ſay unto you my Friends, be not a<g ref="char:EOLhyphen"/>fraid of them that <hi>Kill</hi> the body, &amp; after that, have no more that they can do. But I will forewarn you whom you ſhall fear: <hi>Fear him,</hi> which after he hath <hi>killed,</hi> hath power to caſt into <hi>Hell;</hi> yea, I ſay unto you, <hi>
+                  <hi>Fear him,</hi> Luke</hi> 12.4, &amp;c.</p>
+            <p n="63">LXIII. And he ſaid unto them, Take heed, and beware of
+<hi>Coveteouſneſs:</hi> for man's life con<g ref="char:EOLhyphen"/>ſiſteth not in the abundance of the things which he poſſeſſeth, <hi>Luke</hi> 12.15.</p>
+            <p n="64">LXIV. Fear not, <hi>Little Flock;</hi> for it is your Father's good pleaſure to give you the Kingdom, <hi>Luke</hi> 12.32.</p>
+            <p n="65">LXV. <hi>Sell</hi> all that ye have, and <hi>give Alms:</hi> provide your ſelves Bags which wax not old, a <hi>Treaſure</hi> in the Heavens that faileth not, where no Thief approacheth, neither
+<hi>
+                  <hi>moth corrupteth,</hi> Luke</hi> 12.33.</p>
+            <pb n="10" facs="tcp:44684:7"/>
+            <p n="66">LXVI. Let your loins be girded about, and your <hi>Lights burning;</hi> and ye your ſelves like unto men that wait for their Lord, when he will return from the <hi>Wedding,</hi> that when he cometh and knocketh, they may open unto him immediately, <hi>Luke</hi> 12.35, 36.</p>
+            <p n="67">LXVII. When thou art bidden of any man to a
+<hi>Wedding,</hi> ſit not down in the higheſt Room: leſt a more Honourable man than thou be bidden of him; And he that bade thee and him, come and ſay to thee, Give this man place; and thou be<g ref="char:EOLhyphen"/>gin with ſhame to take the loweſt Room. But when thou art bidden, go and ſit down in the low<g ref="char:EOLhyphen"/>eſt Room; that when he that bade thee cometh, he may ſay unto thee, Friend, go up higher: then ſhalt thou have worſhip in the preſence of them that ſit at meat with thee, <hi>Luke</hi> 14.8, &amp;c.</p>
+            <p n="68">LXVIII. Then ſaid he alſo to him that bade him, When thou makeſt a Dinner or a Supper, call not thy <hi>Friends,</hi> nor thy
+<hi>Brethren,</hi> neither thy <hi>Kinſmen,</hi> nor thy <hi>Rich Neighbours;</hi> leſt they alſo bid thee again, and a recompence be made thee. But when thou makeſt a <hi>Feaſt,</hi> call the <hi>Poor,</hi> the
+<hi>Maimed,</hi> the <hi>Lame,</hi> the <hi>
+                  <hi>Blind,</hi> Luke</hi> 14.12,
+13.</p>
+            <p n="69">LXIX. If any man come to me, and hate not his Father, and Mother, and Wife, and Children, and Brethren, yea, and his own Life alſo, he can<g ref="char:EOLhyphen"/>not be my Diſciple. And whoever doth not bear his <hi>Croſs,</hi> and come after me, cannot be my Diſciple, <hi>Luke</hi> 14.26, 27.</p>
+            <p n="70">LXX. So likewiſe whoſoever he be of you, that forſaketh not <hi>All</hi> that he hath, he <hi>cannot</hi> be <hi>
+                  <hi>my Diſciple,</hi> Luke</hi> 14.33.</p>
+            <p n="71">LXXI. And I ſay unto you, Make to yourſelves Friends of the <hi>Mammon</hi> of unrighteouſneſs; that when ye fail, they may receive you into everlaſt<g ref="char:EOLhyphen"/>ing Habitations, <hi>Luke</hi> 16.9.</p>
+            <p n="72">LXXII. Take heed to yourſelves: if thy Bro<g ref="char:EOLhyphen"/>ther
+<pb n="11" facs="tcp:44684:7"/>Treſpaſs againſt thee, rebuke him: and if he repent, forgive him. And if he Treſpaſs againſt thee ſeven times a day, and ſeven times in a day turn again to thee, ſaying, <hi>I Repent,</hi> thou ſhalt forgive him, <hi>Luke</hi> 17.3, 4.</p>
+            <p n="73">LXXIII. In that day, he which ſhall be upon the Houſe top, and his Stuff in the Houſe, let him not come down to take him away: and he that is in the field, let him likewiſe not return back, <hi>Lu.</hi>
+17.31.</p>
+            <p n="74">LXXIV. And he ſpake a Parable to them, to this end, that men ought <hi>alwaies to pray,</hi> and not to <hi>
+                  <hi>faint,</hi> Luke</hi>
+18.1.</p>
+            <p n="75">LXXV. For this cauſe ſhall a man leave Father and Mother, and ſhall cleave to his Wife: and they twain ſhall be one fleſh. Wherefore they are no more twain, but one fleſh. <hi>
+                  <hi>What therefore God hath joyned together, let no man put aſunder,</hi> Mat.</hi> 19.5, 6.
+<hi>Mark</hi> 10.8, 9.</p>
+            <p n="76">LXXVI. But Jeſus ſaid, Suffer <hi>little Children,</hi> and forbid them not to <hi>come</hi> unto me: for of <hi>ſuch</hi> is the Kingdom of Heaven, <hi>Mat.</hi> 19.14. <hi>Mark</hi> 10.14, 15. <hi>Luke</hi>
+18.16, 17.</p>
+            <p n="77">LXXVII. And he ſaid unto him, Why calleſt thou me good? there is none good but one, that is <hi>God:</hi> but if thou wilt enter into life, <hi>
+                  <hi>Keep the Commandments,</hi> Mat.</hi> 19.17.</p>
+            <p n="78">LXXVIII. But Jeſus called them unto him, and ſaid, Ye know that the Princes of the <hi>Gentiles</hi> exerciſe Dominion over them, and they that are great, exerciſe Authority upon them, but it ſhall not be ſo among you: but whoſoever will be great among you, let him be your Miniſter; &amp; who<g ref="char:EOLhyphen"/>ſoever will be chief among you, let him be your Servant, <hi>Mat.</hi> 20.25, &amp;c. <hi>Mark</hi> 10.43, &amp;c.</p>
+            <p n="79">LXXIX. If any man ſerve me, let him follow me; and where I am, there ſhall alſo my Servant be: if any man ſerve me, him will my Father <hi>
+                  <hi>Honour,</hi> John</hi> 12.26.</p>
+            <pb n="12" facs="tcp:44684:8"/>
+            <p n="80">LXXX. And Jeſus ſaid unto them, Yet a little while is the <hi>Light</hi> with you: walk while ye have the <hi>Light,</hi> leſt
+<hi>Darkneſs</hi> come upon you: for he that walketh in darkneſs, knoweth not whither he goeth. While ye have the <hi>Light,</hi> believe in the
+<hi>Light,</hi> that ye may be the Children of <hi>Light.</hi> Theſe things ſpake Jeſus and departed, and did hide himſelf from them, <hi>John</hi>
+12.35, 36.</p>
+            <p n="81">LXXXI. And Jeſus anſwering ſaid unto them, <hi>Have Faith in God.</hi> For verily I ſay unto you, that whoſoever ſhall ſay to this Mountain, be thou removed, and be thou caſt into the Sea, and ſhall not doubt in his heart, but ſhall believe that thoſe things which he ſaith ſhall come to paſs, he ſhall have whatſoever he ſaith. Therefore I ſay unto <hi>you,</hi> What things ſoever <hi>ye deſire</hi> when <hi>
+                  <hi>ye pray, believe that ye receive them, and ye ſhall have them,</hi> Mark</hi> 11.22.</p>
+            <p n="82">LXXXII. <hi>They ſay</hi> unto him, <hi>Caeſars.</hi> Then ſath he unto them, Render therefore unto <hi>Caeſar,</hi> the things that are <hi>Caeſars:</hi> and unto <hi>God,</hi> the things that are
+<hi>
+                  <hi>Gods,</hi> Mat.</hi> 22.21. <hi>Mark</hi> 12.16, <hi>Luke</hi>
+20.25.</p>
+            <p n="83">LXXXIII. Jeſus ſaid unto him, <hi>
+                  <hi>Thou ſhalt love the Lord thy God with all thy heart, and with all thy ſoul, and with all thy mind. This is the firſt and great Commandment,</hi> Mat.</hi> 22.37, 38.
+<hi>Mark</hi> 12.30.</p>
+            <p n="84">LXXXIV. And the Second is like unto it, <hi>
+                  <hi>Thou ſhalt love thy Neighbour as thy ſelf,</hi> Matth.</hi> 22.30. <hi>Mark</hi>
+12.31.</p>
+            <p n="85">LXXXV. Saying, the <hi>Scribes</hi> and
+<hi>Phariſees</hi> ſit in <hi>Moſes</hi> Seat. All therefore whatſoever they bid you obſerve, that obſerve and do; but do not ye after their works: for they <hi>ſay,</hi> and <hi>do</hi> not, <hi>Mat.</hi> 23.37.</p>
+            <p n="86">LXXXVI. And he ſaid unto them in his Do<g ref="char:EOLhyphen"/>ctrine, beware of the <hi>Scribes,</hi> which love to go in in long Clothing, and love Salutations in the <pb n="13" facs="tcp:44684:8"/>Market place, <hi>Mat.</hi> 23.4, 5.
+<hi>Mark</hi> 12.34. <hi>Luke</hi> 20.46.</p>
+            <p n="87">LXXXVII. But be not ye called <hi>Rabbi:</hi> for one is your Maſter even <hi>Chriſt,</hi> and all ye are <hi>Bre<g ref="char:EOLhyphen"/>thren.</hi> And call no man <hi>your Father</hi> upon the Earth: for one is <hi>your Father</hi> which is in Hea<g ref="char:EOLhyphen"/>ven. Neither be ye called Maſter, for one is
+<hi>your maſter</hi> even <hi>Chriſt.</hi>
+            </p>
+            <p n="88">LXXXVIII. And Jeſus anſwered and ſaid unto them, Take heed that no man deceive <hi>you:</hi> For many ſhall come in <hi>my Name,</hi> ſaying, <hi>I am Chriſt;</hi> and ſhall deceive <hi>many.</hi> And ye ſhall hear of Wars and Rumours of Wars: ſee that ye be not troubled, for all theſe things muſt come to paſs, but the end is not yet,
+<hi>Mat.</hi> 24.48, &amp;c. <hi>Mark</hi> 13.28, &amp;c. <hi>Luke</hi> 13.8,
+9.</p>
+            <p n="89">LXXXIX. But take heed to your ſelves, for they ſhall deliver you up to Councils; and in the <hi>Sy<g ref="char:EOLhyphen"/>nagogues</hi> ye ſhall be
+<hi>beaten;</hi> and ye ſhall be brought before <hi>Rulers</hi> and
+<hi>Kings</hi> for my ſake, for a Teſtimony againſt them. But when they ſhall lead <hi>you</hi> and deliver <hi>you</hi> up, take no thought before-hand what ye ſhall ſpeak, neither do ye pre<g ref="char:EOLhyphen"/>meditate: but whatſoever ſhall be given you in that hour that <hi>ſpeak ye:</hi> for it is not ye that ſpeaketh, but the <hi>
+                  <hi>Holy Ghoſt,</hi> Mat.</hi> 24.10.
+<hi>Mark</hi> 13.9, 11. <hi>Luke</hi> 21.12, &amp;c.</p>
+            <p n="90">XC. In <hi>your patience</hi> poſſeſs <hi>
+                  <hi>ye your Souls,</hi> Luke</hi> 21.19.</p>
+            <p n="91">XCI. Wherefore if <hi>they</hi> ſhall <hi>ſay</hi> unto
+<hi>you,</hi> Behold, he is in the Deſert, go not forth: behold, be is in the ſecret Chambers, believe it not, <hi>Mat.</hi> 24.26.</p>
+            <p n="92">XCII. And take heed to your ſelves, leſt at any time
+<hi>your Hearts</hi> be over charged, with <hi>ſurfeit<g ref="char:EOLhyphen"/>ing</hi> and
+<hi>Drunkenneſs,</hi> and cares of this <hi>Life,</hi> and ſo that day come upon you unawares, <hi>Luke</hi> 21.34.</p>
+            <p n="93">XCIII. <hi>Watch ye</hi> therefore and <hi>pray alwaies,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ye may be accounted <hi>worthy</hi> to eſcape all theſe that ſhall come to paſs, and to ſtand before the Son of man, <hi>Luke</hi> 21.36.</p>
+            <pb n="14" facs="tcp:44684:9"/>
+            <p n="94">XCIV. If <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Lord and Maſter have waſh<g ref="char:EOLhyphen"/>ed <hi>your Feet,</hi> ye alſo ought to waſh one anothers Feet. For I have given you an example that ye ſhould
+<hi>do</hi> as I have <hi>
+                  <hi>done to you,</hi> John</hi> 13.34; &amp;c.</p>
+            <p n="95">XCV. A <hi>Now Commandment</hi> I give unto you, <hi>That ye love one another, as I have loved you, that ye alſo love one another.</hi> By this ſhall all men know that ye are <hi>my</hi> Diſciples if ye love one another. <hi>Simon Peter</hi> ſaid unto him, Lord whither goeſt thou? Jeſus anſwered him, Whither I go thou canſt not follow me now, but thou ſhalt follow me afterwards, <hi>John</hi> 13.34, 35.</p>
+            <p n="96">XCVI. <hi>
+                  <hi>If ye love me keep my Command<g ref="char:EOLhyphen"/>ments,</hi> John</hi> 14.15.</p>
+            <p n="97">XCVII. And as they were eating, Jeſus took <hi>Bread</hi> and bleſſed it, and brake it and gave it to the Diſciples, and ſaid,
+<hi>
+                  <hi>Take, eat, this is my Body,</hi> Mat.</hi> 26.26. <hi>Mark</hi> 14.22.
+<hi>Luke.</hi> 22.19.</p>
+            <p n="98">XCVIII. And he took the Cup and gave thanks and gave it to them, ſaying, <hi>
+                  <hi>Drink ye all of it for this is my Blood of the New Teſtament which is ſhed for many for the remiſſion o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſins,</hi> Mat.</hi> 26.27,
+28. <hi>Mark</hi> 14 23, 24. <hi>Luke</hi> 22.20<g ref="char:punc">▪</g>
+            </p>
+            <p n="99">XCIX. Abide in <hi>me</hi> and I in <hi>you;</hi> as the branc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cannot bear Fruit of it ſelf, except it abide in th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Vine: no more can ye, except ye abide in me <hi>John</hi> 15.4.</p>
+            <p n="100">C. Go ye therefore and Teach all Nations, Bap<g ref="char:EOLhyphen"/>tizing them in the <hi>Name</hi> of the <hi>Father,</hi> and o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Son,</hi> and of the <hi>Holy Ghoſt:</hi> teachin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them to obſerve all things whatſoever I hav<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Commanded You:</hi> and lo <hi>I</hi> am with
+<hi>Yo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the End of the World.</hi> Amen. <hi>Mat.</hi> 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 19, 20. <hi>Mark</hi> 16.15.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44684:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
